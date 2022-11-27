@@ -33,7 +33,7 @@ We will be using Global Terrorism Database which is an open- source database inc
 
 •	Analyzed variable distribution with help of histograms.
 
-<img width="650" alt="image" src="https://user-images.githubusercontent.com/99356847/204161419-68a2ad67-ecf4-4eaf-ba63-ae7a3fe8326e.png"> <img width="650" alt="image" src="https://user-images.githubusercontent.com/99356847/204161465-2b68470e-8dab-46a0-bd9d-f05034edf4ef.png">
+<img width="550" alt="image" src="https://user-images.githubusercontent.com/99356847/204161419-68a2ad67-ecf4-4eaf-ba63-ae7a3fe8326e.png"> <img width="550" alt="image" src="https://user-images.githubusercontent.com/99356847/204161465-2b68470e-8dab-46a0-bd9d-f05034edf4ef.png">
 
 
 ## Insights obtained after EDA
