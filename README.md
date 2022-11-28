@@ -20,6 +20,12 @@ We will be using Global Terrorism Database which is an open- source database inc
 
 •	Target variables (success) – To predict the success of terrorist attacks across the globe
 
+  Success Values
+  
+  Successful attack - 1
+  Unsuccessful attack - 0 (failure to implement the attack)
+  
+
 •	Source - https://www.start.umd.edu/gtd/
 
 ## Dataflow Diagram
