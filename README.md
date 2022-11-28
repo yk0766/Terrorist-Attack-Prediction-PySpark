@@ -23,6 +23,7 @@ We will be using Global Terrorism Database which is an open- source database inc
   Success Values
   
   Successful attack - 1
+  
   Unsuccessful attack - 0 (failure to implement the attack)
   
 
